@@ -3,10 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
-.contenido1{
+body{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     background-color: black;
+}
+header{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 75px;
+    background-color:grey;
+}
+.contentA{
+    margin: 0;
+    padding: 0;
     width: 100%;
     height: 768px;
+    background-color: gray;
 }
